@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Few Activities</string>
+    <string name="text_about">О программе</string>
+    <string name="text_exit">Выход</string>
+</resources>
